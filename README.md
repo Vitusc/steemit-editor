@@ -1,2 +1,2 @@
-# steemit-editor
-Useful tool for easily publishing articles on steemit.
+steemit.com/@vitusc
+Read everything about Steemit Editor:
