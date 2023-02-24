@@ -1,2 +1,3 @@
 steemit.com/@vitusc
-Read everything about Steemit Editor:
+Read everything about Steemit Editor.
+Closed project - outdated.
